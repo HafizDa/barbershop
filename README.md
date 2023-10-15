@@ -2,6 +2,10 @@
 
 BarbershopMP, created by two software engineering students, is a comprehensive barbershop management application built on the MERN stack (MongoDB, Express.js, React, and Node.js).
 
+## deploy
+
+**netlify** https://bucolic-strudel-bc790a.netlify.app
+
 ## Getting Started
 
 To run the BarbershopMP application on your local machine, follow these steps:
@@ -18,7 +22,9 @@ Before you start, ensure you have the following prerequisites installed:
 1. Clone the repository to your machine:
 
    ```bash
-   git clone https://github.com/yourusername/barbershop-mp.git
+   git clone https://github.com/yourusername/barbershop.git
+
+
 
    ```
 
