@@ -4,7 +4,7 @@ BarbershopMP, created by two software engineering students, is a comprehensive b
 
 ## deploy
 
-**netlify** https://bucolic-strudel-bc790a.netlify.app
+**netlify** https://barbershopmp.netlify.app
 
 ## Getting Started
 
