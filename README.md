@@ -39,7 +39,7 @@ Before you start, ensure you have the following prerequisites installed:
    Open a new terminal or command prompt.
 
    Set up the frontend:
-   cd frontend
+   **cd frontend**
    **npm install**
    **npm start**
 
